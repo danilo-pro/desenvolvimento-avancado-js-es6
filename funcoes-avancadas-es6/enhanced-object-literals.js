@@ -40,6 +40,6 @@ var obj = {
         console.log(this);
       }, 1000);
     }
-  }
+}
   
-  obj.sleep();
+obj.sleep();
