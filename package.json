@@ -1,0 +1,25 @@
+{
+  "name": "desenvolvimento-avancado-js-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilo-pro/desenvolvimento-avancado-js-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danilo-pro/desenvolvimento-avancado-js-es6/issues"
+  },
+  "homepage": "https://github.com/danilo-pro/desenvolvimento-avancado-js-es6#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "sinon": "^10.0.0"
+  }
+}
